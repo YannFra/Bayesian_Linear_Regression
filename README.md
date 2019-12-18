@@ -1,3 +1,3 @@
 # Bayesian_Linear_Regression
 
-lklkj
+Implementation of Christopher Bishop's book chapter 3: Pattern Recognition and Machine Learning
